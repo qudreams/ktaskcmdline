@@ -1,7 +1,7 @@
 ## ktaskcmdline
 
 ### Note
-> ktaskcmdline is a simple kernel module to get task cmd-line arguments in kernel.
+> ktaskcmdline is a simple kernel module to get program cmd-line arguments when program start in kernel.
 
 ### Usage
 1. compile
